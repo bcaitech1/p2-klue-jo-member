@@ -223,7 +223,7 @@ sentence : 이순신은 조선중기의 무신이다.
 
 이와같은 형식입니다. 이러한 실험의 방법에 관한 내용들과 결과를 토론글에 공유하였습니다 
 
-![120524241-ce538400-c411-11eb-87cf-838958ade8e0-20210603021830719](../jo-member.github.io/source/images/120524569-28ece000-c412-11eb-9096-051a7a6fe05d.png)
+<img width="1050" alt="image-20210603022140850" src="https://user-images.githubusercontent.com/68108633/120524920-8a14b380-c412-11eb-848f-a5adb2286891.png">
 
 처음에는 저 기호들을 special token에 추가해준뒤, model에 넣어주었지만!!
 
