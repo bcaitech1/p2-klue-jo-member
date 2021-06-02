@@ -46,7 +46,7 @@ P-stage 2 KLUE가 끝이 났다.
 
 이번 자연어 task의 경우에는 데이터도 적고 image task에 비해 복잡한 eda가 필요한것 같지는 않았습니다
 
-![image-20210603020606969](../jo-member.github.io/source/images/image-20210603020606969.png)
+<img width="1061" alt="image-20210603020606969" src="https://user-images.githubusercontent.com/68108633/120523985-82a0da80-c411-11eb-9bea-e5da9496ae93.png">
 
 따라서 가장 중요한 label들의 갯수만을 확인하고 빠르게 다음 단계로 넘어갔습니다. (토론글에도 하나 작성하긴 했지만, 거기서 작성했던 label들간의 유사성으로 class imbalnace를 해결하기 보다는 focal loss를 사용하는게 직관적으로 더 쉬워 보여서 focal loss를 사용하기로 하였습니다.
 
@@ -221,9 +221,9 @@ sentence : 이순신은 조선중기의 무신이다.
 
 <img width="790" alt="image-20210429181250424" src="https://user-images.githubusercontent.com/68108633/120505846-5466cf00-c400-11eb-8222-30a1a837f6d9.png">
 
-이와같은 형식입니다.
+이와같은 형식입니다. 이러한 실험의 방법에 관한 내용들과 결과를 토론글에 공유하였습니다 
 
-<img width="1061" alt="image-20210603020606969" src="https://user-images.githubusercontent.com/68108633/120523985-82a0da80-c411-11eb-9bea-e5da9496ae93.png">
+![120522006-0954b800-c410-11eb-85cb-aec9363b1228](../jo-member.github.io/source/images/120524241-ce538400-c411-11eb-87cf-838958ade8e0-20210603021830719.png)
 
 처음에는 저 기호들을 special token에 추가해준뒤, model에 넣어주었지만!!
 
