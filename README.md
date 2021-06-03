@@ -217,11 +217,11 @@ sentence : 이순신은 조선중기의 무신이다.
 
 이러한 input형식의 이유에 대해 오피스아워에서 질문을 해보았는데, 별다른 이유 없이 간단하게 정해준 형식이라고 하셨습니다.
 
-따라서 초코송이님께서 올려주신 ner을 entitiy사이에 넣어주는 논문글을 읽고 pororo library를 이용하여 ner을 얻어낸뒤 이를 entity양옆에 삽입하여 주었습니다.
+ner을 entitiy사이에 넣어주는 논문글을 읽고 pororo library를 이용하여 ner을 얻어낸뒤 이를 entity양옆에 삽입하여 주었습니다.
 
 <img width="790" alt="image-20210429181250424" src="https://user-images.githubusercontent.com/68108633/120505846-5466cf00-c400-11eb-8222-30a1a837f6d9.png">
 
-이와같은 형식입니다. 이러한 실험의 방법에 관한 내용들과 결과를 토론글에 공유하였습니다 
+이와같은 형식입니다. 이러한 실험의 방법에 관한 내용들과 결과를 토론글에 공유하였습니다. 많은 캠퍼분들이 제글을 읽고 추가적인 시도를 해주셔서 감사했습니다.
 
 <img width="1050" alt="image-20210603022140850" src="https://user-images.githubusercontent.com/68108633/120524920-8a14b380-c412-11eb-848f-a5adb2286891.png">
 
